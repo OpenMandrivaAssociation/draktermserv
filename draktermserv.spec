@@ -5,7 +5,7 @@
 
 Summary:  Terminal server configurator
 Name:     draktermserv
-Version:  0.4
+Version:  0.5
 Release:  %mkrel 1
 Source0:  %name-%version.tar.bz2
 License:  GPL
