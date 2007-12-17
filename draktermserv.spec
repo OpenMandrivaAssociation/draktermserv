@@ -13,7 +13,6 @@ Group:    System/Configuration/Printing
 Url:      http://www.mandrivalinux.com/en/cvs.php3
 BuildRequires: perl-MDK-Common-devel
 Requires: drakxtools => %drakxtools_required_version
-BuildRoot: %_tmppath/%name-%version-buildroot
 Conflicts: drakxtools <= %drakxtools_conflicted_version
 BuildArch: noarch
 
