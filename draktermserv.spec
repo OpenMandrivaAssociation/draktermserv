@@ -10,7 +10,7 @@ Release:  2
 Source0:  %name-%version.tar.bz2
 License:  GPL
 Group:    System/Configuration/Printing
-Url:      http://www.mandrivalinux.com/en/cvs.php3
+Url:      https://www.mandrivalinux.com/en/cvs.php3
 BuildRequires: perl-MDK-Common-devel
 Requires: drakxtools => %drakxtools_required_version
 BuildRoot: %_tmppath/%name-%version-buildroot
